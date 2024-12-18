@@ -20,4 +20,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/0234-palindrome-linked-list) |
+## Array
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/0792-binary-search) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
