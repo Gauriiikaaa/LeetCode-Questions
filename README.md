@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/0021-merge-two-sorted-lists) |
 | [0092-reverse-linked-list-ii](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/0092-reverse-linked-list-ii) |
+| [0143-reorder-list](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/0237-delete-node-in-a-linked-list) |
@@ -17,16 +18,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0143-reorder-list](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/0908-middle-of-the-linked-list) |
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/0234-palindrome-linked-list) |
 ## Array
