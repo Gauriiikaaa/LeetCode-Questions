@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/0021-merge-two-sorted-lists) |
 | [0092-reverse-linked-list-ii](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/0092-reverse-linked-list-ii) |
 | [0206-reverse-linked-list](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/0206-reverse-linked-list) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0234-palindrome-linked-list](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/0908-middle-of-the-linked-list) |
 ## Stack
