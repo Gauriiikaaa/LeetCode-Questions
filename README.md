@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0143-reorder-list](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0908-middle-of-the-linked-list](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/0908-middle-of-the-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Stack
@@ -42,11 +43,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/0792-binary-search) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/0792-binary-search) |
 ## Divide and Conquer
 |  |
@@ -73,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/0287-find-the-duplicate-number) |
 ## Math
 |  |
 | ------- |
