@@ -85,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/0048-rotate-image) |
+## String
+|  |
+| ------- |
+| [1205-defanging-an-ip-address](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/1205-defanging-an-ip-address) |
 <!---LeetCode Topics End-->
