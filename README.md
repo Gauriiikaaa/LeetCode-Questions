@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/0792-binary-search) |
+| [1651-shuffle-string](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/1651-shuffle-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
@@ -89,4 +90,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1205-defanging-an-ip-address](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/1205-defanging-an-ip-address) |
+| [1651-shuffle-string](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/1651-shuffle-string) |
 <!---LeetCode Topics End-->
