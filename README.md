@@ -92,4 +92,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1205-defanging-an-ip-address](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/1205-defanging-an-ip-address) |
 | [1651-shuffle-string](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/1651-shuffle-string) |
 | [1797-goal-parser-interpretation](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/1797-goal-parser-interpretation) |
+| [1970-sorting-the-sentence](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/1970-sorting-the-sentence) |
+## Sorting
+|  |
+| ------- |
+| [1970-sorting-the-sentence](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/1970-sorting-the-sentence) |
 <!---LeetCode Topics End-->
