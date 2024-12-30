@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/0792-binary-search) |
 | [1651-shuffle-string](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/1651-shuffle-string) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1205-defanging-an-ip-address](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/1205-defanging-an-ip-address) |
 | [1651-shuffle-string](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/1651-shuffle-string) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1797-goal-parser-interpretation](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/1797-goal-parser-interpretation) |
 | [1970-sorting-the-sentence](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/1970-sorting-the-sentence) |
 ## Sorting
