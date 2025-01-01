@@ -95,9 +95,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1651-shuffle-string](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1797-goal-parser-interpretation](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/1797-goal-parser-interpretation) |
+| [1823-determine-if-string-halves-are-alike](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1970-sorting-the-sentence](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/1970-sorting-the-sentence) |
 ## Sorting
 |  |
 | ------- |
 | [1970-sorting-the-sentence](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/1970-sorting-the-sentence) |
+## Counting
+|  |
+| ------- |
+| [1823-determine-if-string-halves-are-alike](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/1823-determine-if-string-halves-are-alike) |
 <!---LeetCode Topics End-->
