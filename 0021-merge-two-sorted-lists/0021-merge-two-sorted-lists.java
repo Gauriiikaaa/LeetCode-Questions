@@ -16,7 +16,7 @@ class Solution {
         ListNode temp = head;
         while(f != null && s != null)
         {
-            if(f.val < s.val)
+            if(f.val<s.val)
             {
                 ListNode a = new ListNode(f.val);
                 temp.next = a;
@@ -25,15 +25,15 @@ class Solution {
             }
             else{
                 ListNode a = new ListNode(s.val);
-                temp.next  = a;
-                temp = a;
-                s = s.next;
-
+                temp.next = a;
+               temp = a;
+               s = s.next;
             }
+
         }
         if(f == null)
         {
-            temp.next = s;
+            temp.next  =s;
         }
         else{
             temp.next = f;
