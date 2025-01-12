@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/0792-binary-search) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1651-shuffle-string](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/0792-binary-search) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 ## Divide and Conquer
 |  |
 | ------- |
