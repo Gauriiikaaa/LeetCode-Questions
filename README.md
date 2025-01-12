@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/0143-reorder-list) |
+| [0232-implement-queue-using-stacks](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
@@ -117,4 +118,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/1823-determine-if-string-halves-are-alike) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
