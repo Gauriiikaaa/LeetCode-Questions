@@ -1,52 +1,52 @@
 /**
  * Definition for singly-linked list.
  * public class ListNode {
- * int val;
- * ListNode next;
- * ListNode(int x) {
- * val = x;
- * next = null;
- * }
+ *     int val;
+ *     ListNode next;
+ *     ListNode(int x) {
+ *         val = x;
+ *         next = null;
+ *     }
  * }
  */
 public class Solution {
     public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
-        ListNode tempA = headA;
-        ListNode tempB = headB;
-        int lenA = 0;
-        while(tempA != null)
-        {
-            lenA++;
-            tempA = tempA.next;
-        }
+        int lenA  = 0; 
         int lenB = 0;
-        while(tempB != null)
+        ListNode tailA = headA;
+        ListNode tailB = headB;
+        while(tailA != null)
         {
-            lenB++;
-            tempB = tempB.next;
+            lenA ++;
+            tailA = tailA.next;
         }
-        tempA = headA;
-        tempB =headB;
+        while(tailB != null)
+        {
+            lenB ++;
+            tailB = tailB.next;
+        }
+        tailA = headA;
+        tailB = headB;
         if(lenA > lenB)
         {
             int step = lenA - lenB;
-            for(int i = 1; i<= step; i++)
-        {
-            tempA = tempA.next;
-        }
+            for(int i = 1 ; i <= step; i++)
+            {
+               tailA = tailA .next;
+            }
         }
         else{
             int step = lenB - lenA;
-            for(int i = 1; i<=step;i++)
+            for(int i = 1 ; i<= step; i++)
             {
-                tempB = tempB.next;
+                tailB =  tailB.next;
             }
         }
-        while(tempA != tempB)
+        while(tailA !=  tailB )
         {
-            tempA = tempA.next;
-            tempB = tempB.next;
+            tailA = tailA.next;
+             tailB =  tailB.next;
         }
-        return tempA;
+        return tailA;
     }
 }
