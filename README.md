@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/0143-reorder-list) |
 | [0232-implement-queue-using-stacks](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
 ## Recursion
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/0287-find-the-duplicate-number) |
+| [0496-next-greater-element-i](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
 | [0792-binary-search](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/0792-binary-search) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1651-shuffle-string](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/1651-shuffle-string) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0496-next-greater-element-i](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
 ## Union Find
 |  |
 | ------- |
@@ -134,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/0232-implement-queue-using-stacks) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
