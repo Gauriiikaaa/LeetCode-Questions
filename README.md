@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/0143-reorder-list) |
 | [0232-implement-queue-using-stacks](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/0232-implement-queue-using-stacks) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/0020-valid-parentheses) |
 | [0657-robot-return-to-origin](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/0657-robot-return-to-origin) |
 | [0742-to-lower-case](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/0742-to-lower-case) |
 | [1205-defanging-an-ip-address](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/1205-defanging-an-ip-address) |
