@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/0143-reorder-list) |
 | [0232-implement-queue-using-stacks](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/0234-palindrome-linked-list) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/0074-search-a-2d-matrix) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/0136-single-number) |
@@ -140,5 +142,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
