@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 ## Recursion
 |  |
 | ------- |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1205-defanging-an-ip-address](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/1205-defanging-an-ip-address) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
+| [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1651-shuffle-string](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1797-goal-parser-interpretation](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/1797-goal-parser-interpretation) |
@@ -163,4 +165,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 <!---LeetCode Topics End-->
