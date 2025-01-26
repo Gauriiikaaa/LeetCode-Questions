@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/0141-linked-list-cycle) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/0015-3sum) |
 | [0048-rotate-image](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/0074-search-a-2d-matrix) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/0015-3sum) |
 | [1970-sorting-the-sentence](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/1970-sorting-the-sentence) |
 ## Counting
 |  |
