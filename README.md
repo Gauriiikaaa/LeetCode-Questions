@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Binary Search
 |  |
 | ------- |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/0189-rotate-array) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Matrix
 |  |
 | ------- |
@@ -171,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/3704-count-partitions-with-even-sum-difference) |
 <!---LeetCode Topics End-->
