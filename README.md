@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3731-sum-of-variable-length-subarrays](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Binary Search
 |  |
 | ------- |
@@ -177,4 +178,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3731-sum-of-variable-length-subarrays](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/3731-sum-of-variable-length-subarrays) |
 <!---LeetCode Topics End-->
