@@ -179,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/3731-sum-of-variable-length-subarrays) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/Gauriiikaaa/LeetCode-Questions/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
